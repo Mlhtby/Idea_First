@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9c48f87-3db0-4ffd-a80f-563dba57186d" name="Default" comment="" />
+    <list default="true" id="f9c48f87-3db0-4ffd-a80f-563dba57186d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,39 +17,12 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="125" column="14" lean-forward="true" selection-start-line="125" selection-start-column="14" selection-end-line="125" selection-end-column="14" />
-              <folding>
-                <element signature="e#4096#4102#1#HTML" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4302#4308#0#HTML" expanded="true" />
-                <element signature="e#4308#4314#0#HTML" expanded="true" />
-                <element signature="e#4314#4320#0#HTML" expanded="true" />
-                <element signature="e#4327#4333#1#HTML" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4785#4791#0#HTML" expanded="true" />
-                <element signature="e#4791#4797#0#HTML" expanded="true" />
-                <element signature="e#4797#4803#0#HTML" expanded="true" />
-                <element signature="e#4803#4809#0#HTML" expanded="true" />
-                <element signature="e#4809#4815#0#HTML" expanded="true" />
-                <element signature="e#4815#4821#0#HTML" expanded="true" />
-                <element signature="e#4821#4827#0#HTML" expanded="true" />
-                <element signature="e#4827#4833#0#HTML" expanded="true" />
-                <element signature="e#4833#4839#0#HTML" expanded="true" />
-                <element signature="e#4839#4845#0#HTML" expanded="true" />
-                <element signature="e#4845#4851#0#HTML" expanded="true" />
-                <element signature="e#4851#4857#0#HTML" expanded="true" />
-                <element signature="e#4857#4863#0#HTML" expanded="true" />
-                <element signature="e#4863#4869#0#HTML" expanded="true" />
-                <element signature="e#4869#4875#0#HTML" expanded="true" />
-                <element signature="e#4875#4881#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#5129#5135#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="219">
+              <caret line="119" column="56" selection-start-line="119" selection-start-column="56" selection-end-line="119" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -55,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="149" column="7" lean-forward="true" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
+            <state relative-caret-position="2831">
+              <caret line="149" column="7" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -89,8 +64,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/itheima/HelloServlet.java" />
         <option value="$PROJECT_DIR$/sonar-project.properties" />
         <option value="$PROJECT_DIR$/Jenkinsfile" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/register.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
       </list>
     </option>
   </component>
@@ -122,8 +97,8 @@
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-25" />
     <option name="y" value="55" />
-    <option name="width" value="1714" />
-    <option name="height" value="929" />
+    <option name="width" value="1715" />
+    <option name="height" value="930" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -252,6 +227,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,8 +258,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -365,6 +340,7 @@
       <workItem from="1575419322162" duration="8824000" />
       <workItem from="1575507565798" duration="3604000" />
       <workItem from="1582026289215" duration="2121000" />
+      <workItem from="1582370876063" duration="243000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目提交">
       <created>1575274304059</created>
@@ -524,13 +500,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18703000" />
+    <option name="totallyTimeSpent" value="18946000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-20" y="44" width="1370" height="742" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13185975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13337801" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -538,7 +514,6 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -552,7 +527,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32945284" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.033536587" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -562,6 +537,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven" order="9" visible="true" weight="0.033512063" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,44 +611,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/register.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="149" column="7" lean-forward="true" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
+        <state relative-caret-position="219">
+          <caret line="119" column="56" selection-start-line="119" selection-start-column="56" selection-end-line="119" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="125" column="14" lean-forward="true" selection-start-line="125" selection-start-column="14" selection-end-line="125" selection-end-column="14" />
-          <folding>
-            <element signature="e#4096#4102#1#HTML" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4302#4308#0#HTML" expanded="true" />
-            <element signature="e#4308#4314#0#HTML" expanded="true" />
-            <element signature="e#4314#4320#0#HTML" expanded="true" />
-            <element signature="e#4327#4333#1#HTML" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4785#4791#0#HTML" expanded="true" />
-            <element signature="e#4791#4797#0#HTML" expanded="true" />
-            <element signature="e#4797#4803#0#HTML" expanded="true" />
-            <element signature="e#4803#4809#0#HTML" expanded="true" />
-            <element signature="e#4809#4815#0#HTML" expanded="true" />
-            <element signature="e#4815#4821#0#HTML" expanded="true" />
-            <element signature="e#4821#4827#0#HTML" expanded="true" />
-            <element signature="e#4827#4833#0#HTML" expanded="true" />
-            <element signature="e#4833#4839#0#HTML" expanded="true" />
-            <element signature="e#4839#4845#0#HTML" expanded="true" />
-            <element signature="e#4845#4851#0#HTML" expanded="true" />
-            <element signature="e#4851#4857#0#HTML" expanded="true" />
-            <element signature="e#4857#4863#0#HTML" expanded="true" />
-            <element signature="e#4863#4869#0#HTML" expanded="true" />
-            <element signature="e#4869#4875#0#HTML" expanded="true" />
-            <element signature="e#4875#4881#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5129#5135#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="2831">
+          <caret line="149" column="7" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
         </state>
       </provider>
     </entry>

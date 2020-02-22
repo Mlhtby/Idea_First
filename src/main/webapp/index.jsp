@@ -115,9 +115,9 @@
     </SCRIPT>
 </head>
 <body>
-<img src="img/login_bg.jpg" class="bg">
+<img src="img/login_bg2.jpg" class="bg">
 <div id="head">
-    <img src="img/login_head.png" width=100% height=auto />
+    <img src="img/login_head.png" width=100% height=100% />
 </div>
 <div id="center">
     <form name="myform" onSubmit="return validateform( )" enctype="multipart/form-data" action="cgi-bin/login.cgi" method="post" >
