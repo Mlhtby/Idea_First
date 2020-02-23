@@ -8,7 +8,7 @@
 　　　　　　　　　 success: function(result){//返回的参数就是 action里面所有的有get和set方法的参数
                     addBox(result);
                 }
-            });
+            })
             /*$.get("item.json",function(result){
                 //result数据添加到box容器中;
                 addBox(result);
