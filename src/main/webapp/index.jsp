@@ -4,13 +4,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>login</title>
-    <script src="js/jquery-2.2.3.min.js"></script>
-    <script src="js/jquery-ui.min.js"></script>
     <link type="text/css" href="css/jquery-ui.min.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <script src="js/bootstrap.min.js"></script>
     <link type="text/css" href="css/login.css" rel="stylesheet">
-    <script src="js/my.js"></script>
 </head>
 <body>
 <img src="img/login_bg.jpg" class="bg">
@@ -35,11 +30,6 @@
             <a href="register.html"><INPUT class="btn btn-primary" name="registerButton" id="Button" type="button" value="注册"></a>
         </div>
     </form>
-</div>
-<div id="bottom">
-    <div class="footer" style="color:white;">
-        Life &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fantastic
-    </div>
 </div>
 </body>
 </html>
