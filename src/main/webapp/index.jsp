@@ -13,7 +13,7 @@
     <script src="js/my.js"></script>
 </head>
 <body>
-<img src="img/login_bg2.jpg" class="bg">
+<img src="img/login_bg.jpg" class="bg">
 <div id="head">
     <img src="img/login_head.png" width=100% height=100% />
 </div>
